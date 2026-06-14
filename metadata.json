@@ -1,0 +1,6 @@
+{
+  "name": "CarbonIQ",
+  "description": "Enterprise-grade carbon accounting SaaS platform to calculate, monitor, analyze, and report corporate greenhouse gas emissions (Scope 1, 2, and 3) in compliance with GHG Protocol.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
